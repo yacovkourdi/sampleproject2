@@ -1,1 +1,7 @@
-"# sampleproject2" 
+# DevOps Project HIT: Yacov, Anna.
+
+## Getting Started
+
+
+### Prerequisites
+
