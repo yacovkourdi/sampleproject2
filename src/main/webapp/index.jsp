@@ -13,7 +13,7 @@ img {margin-bottom: -7px}
 </style>
 <body>
 
-<h1>Names: Yacov , Anna. DevOps Project </h1>
+<h1>Names: test Yacov , Anna. DevOps Project </h1>
 
 <!-- Sidebar -->
 <nav class="w3-sidebar w3-black w3-animate-top w3-xxlarge" style="display:none;padding-top:150px" id="mySidebar">
