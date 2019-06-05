@@ -26,10 +26,14 @@ img {margin-bottom: -7px}
     <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Shop</a>
     <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Contact</a>
   </div>
+  
+  
+
 </nav>
 
 <!-- !PAGE CONTENT! -->
 <div class="w3-content" style="max-width:1500px">
+
 
 <!-- Header -->
 <div class="w3-opacity">
@@ -40,12 +44,14 @@ img {margin-bottom: -7px}
   <p><b>A Sample Project, Course HIT DevOps.</b></p>
   
  
-  <p class="w3-padding-16"> <button id="myButton" class="float-left submit-button" >Click Here</button></p>
+  <p class="w3-padding-16"> <button id="myButton" class="float-left submit-button" >Click Here</button>
+  </p>
 </header>
 </div>
 
 
 
+	
 
 
 
@@ -53,6 +59,8 @@ img {margin-bottom: -7px}
 
 <!-- End Page Content -->
 </div>
+
+<img src="devimg.png" alt="Girl in a jacket">
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin-top:128px"> 
